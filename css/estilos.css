@@ -1,3 +1,6 @@
+@import url(../images/indios.jpg);
+
+
 :root {
   --cinza: #aaa;
   --vermelha: #4bd4c9;
@@ -9,7 +12,7 @@
 
 body {
   align-items: center;
-  background-image: url(images/indios.jpg);
+  background-image: url(indios.jpg);
   display: flex;
   justify-content: center;
   flex-direction: column;
