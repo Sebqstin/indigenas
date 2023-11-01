@@ -19,6 +19,7 @@ body {
 }
 
 h1 {
+  background-color: #eeeeee;
   color: var(--vermelha
   );
   margin-bottom: 20px;
