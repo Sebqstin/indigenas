@@ -12,7 +12,7 @@
 
 body {
   align-items: center;
-  background-image: url(indios.jpg);
+  background-color: #000;
   display: flex;
   justify-content: center;
   flex-direction: column;
