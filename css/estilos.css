@@ -9,7 +9,7 @@
 
 body {
   align-items: center;
-  background-color: #aaa;
+  background-image: url("../images/indios.jpg");
   display: flex;
   justify-content: center;
   flex-direction: column;
