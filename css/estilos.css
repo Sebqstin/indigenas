@@ -55,7 +55,7 @@ h1 {
 .tecla:active {
   background-color: var(--azultecla);
   border: 4px solid var(--azulteclafondo);
-  box-shadow: 3px 3px 0  inset;
+  box-shadow: 3px 3px 0 black inset;
   color: var(--azulmarine);
   outline: none;
 }
