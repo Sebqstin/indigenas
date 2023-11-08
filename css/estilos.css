@@ -19,7 +19,6 @@ body {
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
-  border-radius: 50%;
 }
 
 h1 {
@@ -27,6 +26,7 @@ h1 {
   color: #dd0808;
   margin-bottom: 20px;
   font-size: 2rem;
+  border-radius: 50px;
 }
 
 .teclado {
