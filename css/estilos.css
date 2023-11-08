@@ -6,7 +6,7 @@
   --preta: #000000;
   --luz: rgb(229, 255, 0);
   --branca:#ffffff;
-  --azultecla: rgb(32, 219, 210), 255, 255;
+  --azultecla: #20dbd2, 255, 255;
   --azulteclafondo: rgb(32, 104, 100), 255, 255;
 }
 
@@ -29,7 +29,7 @@ h1 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, rgb(223, 161, 46), 201, 114) 0%,#ff6262 100%);
+  background: linear-gradient(to bottom, #DFA12E 0%,#dd0808 100%);
   border-radius: 30px;
   display: grid;
   gap: 10px;
