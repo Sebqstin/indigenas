@@ -22,8 +22,8 @@ body {
 }
 
 h1 {
-  background: linear-gradient(to bottom #DFA12E 0%,#dd0808 100%);
-  color: var(--azulmarine);
+  background-color: #DFA12E;
+  color: #dd0808;
   margin-bottom: 20px;
   font-size: 2rem;
 }
