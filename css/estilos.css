@@ -22,7 +22,7 @@ body {
 }
 
 h1 {
-  background-color: #eeeeee;
+  background: linear-gradient(to bottom #DFA12E 0%,#dd0808 100%);
   color: var(--azulmarine);
   margin-bottom: 20px;
   font-size: 2rem;
