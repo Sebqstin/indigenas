@@ -32,8 +32,8 @@ h1 {
 .teclado {
   background: linear-gradient(to bottom, #DFA12E 0%,#dd0808 100%);
   border-radius: 30px;
-  width: 1000px;
-  height: 1000px;
+  width: 700px;
+  height: 700px;
   display: grid;
   gap: 10px;
   grid-template-columns: repeat(3, 1fr);
