@@ -46,12 +46,12 @@ h1 {
   box-shadow: 3px 3px 0 #dd0808;
   color: #DFA12E;
   cursor: pointer;
-  height: 120px;
+  height: 200px;
   font-size: 1.75em;
   font-weight: bold;
   line-height: 120px;
   text-align: center;
-  width: 120px;
+  width: 200px;
 }
 
 .tecla.ativa,
