@@ -15,7 +15,7 @@ body {
   background-image: url("../images/capa-blog.png");
   background-size: 100%;
   display: flex;
-  background-position: 10%;
+  background-position: 100%;
   
   justify-content: center;
   flex-direction: column;
